@@ -57,6 +57,9 @@ social:
 - icon: dblp
   icon_pack: ai
   link: 'https://dblp.org/pid/268/2562.html'
+- icon: ieee
+  icon_pack: ai
+  link: 'https://ieeexplore.ieee.org/author/37088481904'
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 - icon: cv
