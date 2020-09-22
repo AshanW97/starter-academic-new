@@ -1,13 +1,17 @@
 ---
-title: "An example conference paper"
+title: "Evaluation of Hand Tremor Frequency Among Patients in Sri Lanka using a Soft Glove"
 authors:
+- A.G.P. Kavindya
+- W.V.I. Awantha
 - admin
-- Robert Ford
-date: "2013-07-01T00:00:00Z"
-doi: ""
+- A.L. Kulasekera
+- D.S. Chathuranga
+- B. Senanayake
+date: "2020-07-28"
+doi: "10.1109/MERCon50084.2020.9185382"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2017-01-01T00:00:00Z"
+publishDate: "2020-09-03"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -16,36 +20,36 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *Source Themes Conference*
-publication_short: In *STC*
+publication: In *2020 Moratuwa Engineering Research Conference*
+publication_short: In *MERCon*
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: Tremors are the involuntary oscillations of a body part which occur due to diseases such as Parkinson’s Disease (PD), Essential tremor (ET) or stroke, which disturbs the activities of daily living (ADL). This paper presents an evaluation of hand tremor frequency among patients in Sri Lanka using a soft glove embedded with inertial measuring units (IMU) and its development and validation. This is a research towards the development of a hand tremor suppression device which requires data on hand tremors. To the best of the authors’ knowledge, no local data is available on hand tremors despite the availability of global studies. The hand tremor was quantitatively analyzed and the dominant frequency for each patient, overall mean and standard deviation of peak frequencies were obtained for this study group. The results show a mean of 5.05 ± 2.03 Hz for peak frequencies for the hand tremor patient sample in Sri Lanka. By the gender 4.62 ± 1.78 Hz and 5.69 Hz ± 2.38 Hz are the mean of peak frequencies for male and female sample respectively. This research will also be useful in disease diagnosing in clinical studies and developing hand tremor assessment tools.
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+#summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
 tags:
 - Source Themes
 featured: true
 
 links:
-- name: Custom Link
-  url: http://example.org
-url_pdf: http://eprints.soton.ac.uk/352095/1/Cushen-IMV2013.pdf
-url_code: '#'
-url_dataset: '#'
-url_poster: '#'
-url_project: ''
-url_slides: ''
-url_source: '#'
-url_video: '#'
+- name: IEEEXplore
+  url: https://ieeexplore.ieee.org/document/9185382
+url_pdf: https://www.researchgate.net/publication/344129676_Evaluation_of_Hand_Tremor_Frequency_Among_Patients_in_Sri_Lanka_using_a_Soft_Glove
+#url_code: '#'
+#url_dataset: '#'
+#url_poster: '#'
+#url_project: ''
+#url_slides: ''
+#url_source: '#'
+#url_video: '#'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
+  caption: 'IMU-based soft glove'
   focal_point: ""
-  preview_only: false
+  preview_only: true
 
 # Associated Projects (optional).
 #   Associate this publication with one or more of your projects.
@@ -53,7 +57,7 @@ image:
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
 projects:
-- internal-project
+- fyp
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
