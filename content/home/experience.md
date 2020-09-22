@@ -21,16 +21,16 @@ date_format = "Jan 2006"
   title = "Visiting Instructor"
   company = "Department of Mechanical Engineering, University of Moratuwa"
   company_url = "https:\\uom.lk/mech"
-  location = "Moratuwa"
-  date_start = "2020-09-07"
-  date_end = ""
-  description = """Conducting lab sessions for Mechanical engineering undergraduates"""
-  Responsibilities include:
+  #location = "Moratuwa"
+  #date_start = "2020-09-07"
+  #date_end = ""
+  #description = """Conducting lab sessions for Mechanical engineering undergraduates
+  #Responsibilities include:
   
-  * Conducting Lab Sessions
-  * Practical Sessions for Industrial Automation
-  * Practical Sessions for Mechanics of Machines I
-  """
+  #* Conducting Lab Sessions
+  #* Practical Sessions for Industrial Automation
+  #* Practical Sessions for Mechanics of Machines I
+  #"""
 
 [[experience]]
   title = "Professor"
