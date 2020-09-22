@@ -62,5 +62,20 @@ date_format = "Jan 2006"
   * System Automation
   * CAD/CAM
   * Research""" 
+  
+[[experience]]
+  title = "Trainee Teacher"
+  company = """Lyceum International School - Wattala"""
+  company_url = "http://www.lyceum.lk/school/wattala"
+  location = "Wattala, Sri Lanka"
+  date_start = "2014-09-01"
+  date_end = "2015-11-27"
+  description = """Teaching after graduating from school 
+  
+  Responsibilities include:
+  
+  * Maths teacher
+  * Electronics and Life Skills teacher
+  * Chemistry Laboratory Assistant""" 
 
 +++
