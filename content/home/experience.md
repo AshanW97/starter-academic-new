@@ -24,7 +24,7 @@ date_format = "Jan 2006"
   #location = "Moratuwa"
   date_start = "2020-09-07"
   #date_end = ""
-  #description = """Conducting lab sessions for Mechanical engineering undergraduates
+  description = """Conducting lab sessions for Mechanical engineering undergraduates"""
   #Responsibilities include:
   
   #* Conducting Lab Sessions
