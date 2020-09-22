@@ -49,12 +49,18 @@ date_format = "Jan 2006"
   
 
 [[experience]]
-  title = "Professor"
-  company = "University X"
-  company_url = ""
-  location = "California"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  title = "Automation Intern"
+  company = """MAS Kreeda"""
+  company_url = "https://www.masholdings.com/active.html#apparel-kreeda"
+  location = "Biyagama, Sri Lanka"
+  date_start = "2018-07-27"
+  date_end = "2018-12-08"
+  description = """Six month Industrial training internship with regard to the B.Sc. in Mech. Eng.
+  
+  Responsibilities include:
+  
+  * System Automation
+  * CAD/CAM
+  * Research""" 
 
 +++
