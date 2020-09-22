@@ -21,7 +21,7 @@ publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
 publication: In *2020 Moratuwa Engineering Research Conference*
-publication_short: In *MERCon*
+publication_short: In *MERCon 2020*
 
 abstract: Tremors are the involuntary oscillations of a body part which occur due to diseases such as Parkinson’s Disease (PD), Essential tremor (ET) or stroke, which disturbs the activities of daily living (ADL). This paper presents an evaluation of hand tremor frequency among patients in Sri Lanka using a soft glove embedded with inertial measuring units (IMU) and its development and validation. This is a research towards the development of a hand tremor suppression device which requires data on hand tremors. To the best of the authors’ knowledge, no local data is available on hand tremors despite the availability of global studies. The hand tremor was quantitatively analyzed and the dominant frequency for each patient, overall mean and standard deviation of peak frequencies were obtained for this study group. The results show a mean of 5.05 ± 2.03 Hz for peak frequencies for the hand tremor patient sample in Sri Lanka. By the gender 4.62 ± 1.78 Hz and 5.69 Hz ± 2.38 Hz are the mean of peak frequencies for male and female sample respectively. This research will also be useful in disease diagnosing in clinical studies and developing hand tremor assessment tools.
 
