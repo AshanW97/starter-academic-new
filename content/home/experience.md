@@ -21,7 +21,7 @@ date_format = "Jan 2006"
   title = "Visiting Instructor"
   company = "Department of Mechanical Engineering, University of Moratuwa"
   company_url = "https:\\uom.lk/mech"
-  location = "Moratuwa"
+  location = "Moratuwa, Sri Lanka"
   date_start = "2020-09-07"
   date_end = ""
   description = """Conducting lab sessions for Mechanical engineering undergraduates
@@ -31,6 +31,22 @@ date_format = "Jan 2006"
   * Conducting Lab Sessions
   * Practical Sessions for Industrial Automation
   * Practical Sessions for Mechanics of Machines I"""
+  
+[[experience]]
+  title = "Research Student"
+  company = """Computational Sensing and Smart Machines Laboratory, Department of Mechanical Engineering, University of Moratuwa"""
+  company_url = "https:\\uom.lk/mech"
+  location = "Moratuwa, Sri Lanka"
+  date_start = "2020-02-01"
+  date_end = ""
+  description = """Conducting research related to soft robotics
+  
+  Responsibilities include:
+  
+  * Design and Analysis
+  * Experimentation
+  * Research"""  
+  
 
 [[experience]]
   title = "Professor"
