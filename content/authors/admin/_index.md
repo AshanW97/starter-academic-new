@@ -48,6 +48,15 @@ social:
 - icon: researchgate
   icon_pack: ai
   link: 'https://www.researchgate.net/profile/Ashan_Wanasinghe'
+- icon: orcid
+  icon_pack: ai
+  link: 'https://orcid.org/0000-0001-9307-0769'
+- icon: semantic-scholar
+  icon_pack: ai
+  link: 'https://www.semanticscholar.org/author/Ashan-T.-Wanasinghe/1752870644'
+- icon: dblp
+  icon_pack: ai
+  link: 'https://dblp.org/pid/268/2562.html'
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 - icon: cv
