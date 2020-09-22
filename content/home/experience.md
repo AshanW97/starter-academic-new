@@ -18,7 +18,7 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "Visiting Instructor"
+  title = "Instructor"
   company = "Department of Mechanical Engineering, University of Moratuwa"
   company_url = "https:\\uom.lk/mech"
   location = "Moratuwa, Sri Lanka"
@@ -33,7 +33,7 @@ date_format = "Jan 2006"
   * Practical Sessions for Mechanics of Machines I"""
   
 [[experience]]
-  title = "Research Student"
+  title = "Researcher"
   company = """Computational Sensing and Smart Machines Laboratory, Department of Mechanical Engineering, University of Moratuwa"""
   company_url = "https:\\uom.lk/mech"
   location = "Moratuwa, Sri Lanka"
