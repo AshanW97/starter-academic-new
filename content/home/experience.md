@@ -25,12 +25,12 @@ date_format = "Jan 2006"
   date_start = "2020-09-07"
   date_end = ""
   description = """Conducting lab sessions for Mechanical engineering undergraduates
-  Responsibilities include:"""
   
-  #* Conducting Lab Sessions
-  #* Practical Sessions for Industrial Automation
-  #* Practical Sessions for Mechanics of Machines I
-  #"""
+  Responsibilities include:
+  
+  * Conducting Lab Sessions
+  * Practical Sessions for Industrial Automation
+  * Practical Sessions for Mechanics of Machines I"""
 
 [[experience]]
   title = "Professor"
