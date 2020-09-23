@@ -1,26 +1,28 @@
 ---
-title: Internal Project
+title: Development of a Soft Orthotic device for suppression of hand tremors
 summary: An example of using the in-built project page.
 tags:
-- Deep Learning
-date: "2016-04-27T00:00:00Z"
+- Soft Robotics
+- Hand Tremors
+- Final Year Project
+date: "2020-02-28"
 
 # Optional external URL for project (replaces project detail page).
-external_link: ""
+external_link: "https://www.researchgate.net/project/Development-of-a-Soft-Orthotic-device-for-suppression-of-hand-tremors"
 
 image:
-  caption: Photo by rawpixel on Unsplash
+  caption: ""
   focal_point: Smart
 
-links:
-- icon: twitter
-  icon_pack: fab
-  name: Follow
-  url: https://twitter.com/georgecushen
-url_code: ""
-url_pdf: ""
-url_slides: ""
-url_video: ""
+#links:
+#- icon: twitter
+#  icon_pack: fab
+#  name: Follow
+#  url: https://twitter.com/georgecushen
+#url_code: ""
+#url_pdf: ""
+#url_slides: ""
+#url_video: ""
 
 # Slides (optional).
 #   Associate this project with Markdown slides.
