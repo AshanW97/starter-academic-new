@@ -28,7 +28,11 @@ abstract: The following paper presents the concept of a layer jamming based soft
 #summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
 tags:
-- Source Themes
+- Final Year Project
+- Soft Robotics
+- Layer Jamming
+- Orthotic devices
+- Hand Tremor Suppression
 featured: true
 
 links:
