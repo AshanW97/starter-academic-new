@@ -29,7 +29,11 @@ abstract: Tremors are the involuntary oscillations of a body part which occur du
 #summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
 tags:
-- Source Themes
+- Final Year Project
+- Tremor Analysis
+- Hand Tremor data
+- Orthotic devices
+- Hand Tremor Suppression
 featured: true
 
 links:
