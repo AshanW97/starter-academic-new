@@ -2,12 +2,9 @@
 title: Design and Analysis of a MEMS based Transdermal Drug Delivery system
 summary: B.Sc. Semester 7 MEMS project for the design of a transdermal drug delivery system
 tags:
-- Soft Robotics
-- Hand Tremors
-- Orthotic devices
-- Layer Jamming
-- Final Year Project
-date: "2020-02-28"
+- MEMS
+- BioMEMS
+date: "2019-07-28"
 
 # Optional external URL for project (replaces project detail page).
 external_link: "https://www.researchgate.net/project/Design-and-Analysis-of-a-MEMS-based-Transdermal-Drug-Delivery-system"
