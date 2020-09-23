@@ -30,13 +30,15 @@ abstract: The design and analysis of a Micro Electromechanical System-based (MEM
 #summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
 tags:
-- Source Themes
+- MEMS
+- Drug Delivery
+- BioMEMS
 featured: true
 
 links:
 - name: IEEEXplore
-  url: http://example.org
-url_pdf: https://ieeexplore.ieee.org/document/9185328
+  url: https://ieeexplore.ieee.org/document/9185328
+url_pdf: https://www.researchgate.net/publication/344129690_Design_and_Analysis_of_a_MEMS_Based_Transdermal_Drug_Delivery_System
 #url_code: '#'
 #url_dataset: '#'
 #url_poster: '#'
