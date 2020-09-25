@@ -44,7 +44,7 @@ Architecture is the art or practice of planning, designing and constructing buil
 *Architects continue their careers in many paths in addition to pure core architecture, varying from town and urban planning to interior designing.
 
 **How to become a qualified Architect in Sri Lanka?**
-In Sri Lanka if one asks, “What is the path to become a qualified Architect?” the answer is quite straightforward[...](https://heavenz.lk/articles/tips/a-qualified-architect-in-sri-lanka/)
+In Sri Lanka if one asks, “What is the path to become a qualified Architect?” the answer is quite straightforward[*...*](https://heavenz.lk/articles/tips/a-qualified-architect-in-sri-lanka/)
 
 
 ## License
