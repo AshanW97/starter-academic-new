@@ -1,7 +1,7 @@
 ---
 title: 'How to become a qualified Architect in Sri Lanka?'
 subtitle: 'An info article on how one could be an architect in Sri Lanka'
-#summary: Create a beautifully simple website in under 10 minutes.
+summary: Are you trying to become a qualified architect in Sri Lanka? If not, are you trying to find whether the architect you hired is actually qualified? Then this is for you.
 authors:
 - admin
 tags:
@@ -47,6 +47,6 @@ Architecture is the art or practice of planning, designing and constructing buil
 In Sri Lanka if one asks, “What is the path to become a qualified Architect?” the answer is quite straightforward[*...*](https://heavenz.lk/articles/tips/a-qualified-architect-in-sri-lanka/)
 
 
-Copyright 2019-present [HEAVENZ.LK](https://heavenz.lk).
+Copyright | 2019-present [HEAVENZ.LK](https://heavenz.lk).
 
 
