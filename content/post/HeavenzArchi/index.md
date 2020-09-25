@@ -38,9 +38,13 @@ Architecture provides solutions for a wide area of problems varying from arrangi
 Architecture is the art or practice of planning, designing and constructing buildings and structures. It is a field of study which incorporates creative thinking with the required sciences. As such, an architect (or a relevant undergraduate) should have
 
 *Fundamental knowledge in fields such as science and arts
+
 *Ability to think creatively in solving problems
+
 *Skill to look at a problem with novel ideas and from vivid angles
+
 *A sense of traditions and cultural influences
+
 *Architects continue their careers in many paths in addition to pure core architecture, varying from town and urban planning to interior designing.
 
 **How to become a qualified Architect in Sri Lanka?**
