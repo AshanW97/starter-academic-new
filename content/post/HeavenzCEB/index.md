@@ -21,7 +21,7 @@ external_link: 'https://heavenz.lk/articles/tips/what-are-compressed-earth-brick
 # Focal point options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
 image:
   placement: 2
-  caption: 'Image credit: [**HEAVENZ.LK**](https://heavenz.lk/articles/tips/a-qualified-architect-in-sri-lanka/)'
+  caption: 'Image credit: [**HEAVENZ.LK**](https://heavenz.lk/articles/tips/what-are-compressed-earth-bricks-cebs/)'
   focal_point: ""
   preview_only: false
 
