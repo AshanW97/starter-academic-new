@@ -51,6 +51,7 @@ Architecture is the art or practice of planning, designing and constructing buil
 In Sri Lanka if one asks, “What is the path to become a qualified Architect?” the answer is quite straightforward[*...*](https://heavenz.lk/articles/tips/a-qualified-architect-in-sri-lanka/)
 
 
-Copyright | 2019-present [HEAVENZ.LK](https://heavenz.lk).
+
+Copyright | [HEAVENZ.LK](https://heavenz.lk)
 
 
