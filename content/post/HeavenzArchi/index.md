@@ -8,7 +8,7 @@ tags:
 - Blog
 - Architecture
 categories:
-- Tips
+- Heavenz Tips
 date: "2020-02-07"
 lastmod: "2020-02-07"
 featured: true
