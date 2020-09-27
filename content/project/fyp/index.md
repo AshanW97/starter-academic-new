@@ -11,6 +11,7 @@ date: "2020-02-28"
 
 # Optional external URL for project (replaces project detail page).
 external_link: "https://www.researchgate.net/project/Development-of-a-Soft-Orthotic-device-for-suppression-of-hand-tremors"
+url: "/project/fyp/"
 
 image:
   caption: ""
