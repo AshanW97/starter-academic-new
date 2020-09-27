@@ -35,7 +35,7 @@ projects: []
 Architecture provides solutions for a wide area of problems varying from arranging your garden properly to psychological effects of lighting. From where does one learn all these? How do I confirm that my architect is qualified and reliable? In this week, we are digging deep on how to become a qualified architect in Sri Lanka.
 
 **What is Architecture?**
-Architecture is the art or practice of planning, designing and constructing buildings and structures. It is a field of study which incorporates creative thinking with the required sciences. As such, an architect (or a relevant undergraduate) should have
+Architecture is the art or practice of planning, designing and constructing buildings and structures. It is a field of study which incorporates creative thinking with the required sciences. As such, an architect (or a relevant undergraduate) should have;
 
 *Fundamental knowledge in fields such as science and arts
 
